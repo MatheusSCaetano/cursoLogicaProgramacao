@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1723685623 source:c:\users\matheus\documents\curso_logica_programacao\hello_word\main.c
+	<stdio.h>
+	<stdlib.h>
+
